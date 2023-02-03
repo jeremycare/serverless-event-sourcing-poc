@@ -1,2 +1,2 @@
 # serverless-event-sourcing-poc
-POCfor implementation of event-sourcing pattern in serverless
+POC for implementation of event-sourcing pattern in serverless
